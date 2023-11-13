@@ -1,0 +1,24 @@
+{
+  "name": "ossified-orbit",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.11.1",
+    "@expressive-code/plugin-collapsible-sections": "^0.22.2",
+    "@fontsource/ibm-plex-mono": "^5.0.8",
+    "@fontsource/ibm-plex-serif": "^5.0.8",
+    "astro": "^3.3.2",
+    "astro-expressive-code": "^0.22.2",
+    "expressive-code": "^0.22.2",
+    "hast-util-to-html": "^9.0.0",
+    "remark-expressive-code": "^0.22.2",
+    "sharp": "^0.32.3"
+  }
+}
